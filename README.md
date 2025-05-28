@@ -13,7 +13,7 @@
 #### E-Learning:
 
 #### Utvalda för denna veckan (dessa bör ni titta på)
-
+* [Skapa layouts](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
 #### Extra - Om ni vill och behöver
 * [CSS Unit Flowchart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
