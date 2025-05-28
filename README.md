@@ -29,6 +29,7 @@
 ## Övrigt
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
 * [CSS Units](https://whatunit.com/)
+* [Pseudoklasserna :is, :has, :where](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 
 ## Lektionsrepon
 * [Måndag] - CSS Reset, Variabler, Typografi (google) och units.
