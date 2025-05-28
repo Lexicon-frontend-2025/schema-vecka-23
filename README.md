@@ -20,10 +20,10 @@
 ### Youtube
 #### Extra - Om ni vill och behöver
 * [CSS Unit Flowchart](https://www.youtube.com/watch?v=Utc_uhvTluk)
+* [Pseudoklasserna :is, :has, :where](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 
 #### Läsning
-
-#### Verktyg
+* [CSS Units](https://whatunit.com/)
 
 ## Övningar
 * [CSS-övning](https://flukeout.github.io/)
@@ -33,8 +33,6 @@
 
 ## Övrigt
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
-* [CSS Units](https://whatunit.com/)
-* [Pseudoklasserna :is, :has, :where](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 
 ## Lektionsrepon
 * [Måndag] - CSS Reset, Variabler, Typografi (google) och units.
