@@ -18,7 +18,6 @@
 * [Skapa layouts](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
 
 ### Youtube
-#### Extra - Om ni vill och behöver
 * [CSS Unit Flowchart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [Pseudoklasserna :is, :has, :where](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 
