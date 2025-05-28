@@ -26,6 +26,7 @@
 
 ## Övningar
 * [CSS-övning](https://flukeout.github.io/)
+* [CSS-selektorer](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-CSS-selektorer)
 ## Slides
 
 ## Övrigt
