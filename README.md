@@ -15,7 +15,7 @@
 #### Utvalda för denna veckan (dessa bör ni titta på)
 
 #### Extra - Om ni vill och behöver
-
+* [CSS Unit Flowchart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 #### Läsning
 
@@ -28,6 +28,7 @@
 
 ## Övrigt
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
+* [CSS Units](https://whatunit.com/)
 
 ## Lektionsrepon
 * [Måndag] - CSS Reset, Variabler, Typografi (google) och units.
