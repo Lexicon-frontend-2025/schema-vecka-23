@@ -28,7 +28,7 @@
 * [CSS-selektorer](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-CSS-selektorer)
 
 ## Slides
-* [Tisdagens slides, nestad CSS etc](https://docs.google.com/presentation/d/12RBr-9LL76Z9hzgfFDnOetjcjOUgic5zI8SxIPQQuwc/edit?usp=sharing)
+* [Tisdagens slides, nästlad CSS etc](https://docs.google.com/presentation/d/12RBr-9LL76Z9hzgfFDnOetjcjOUgic5zI8SxIPQQuwc/edit?usp=sharing)
 
 ## Övrigt
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
