@@ -21,7 +21,6 @@
 
 #### Läsning
 * [CSS Units - whatunit.com](https://whatunit.com/)
-* [lite om whatunit](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 ## Övningar
 * [CSS-övning](https://flukeout.github.io/)
