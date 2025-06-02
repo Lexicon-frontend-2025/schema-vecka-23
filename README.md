@@ -20,7 +20,7 @@
 * [Pseudoklasserna :is, :has, :where](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 
 #### Läsning
-* [CSS Units](https://whatunit.com/)
+* [CSS Units - whatunit.com](https://whatunit.com/)
 * [lite om whatunit](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 ## Övningar
@@ -34,7 +34,7 @@
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
 
 ## Lektionsrepon
-* [Måndag] - CSS Reset, Variabler, Typografi (google) och units.
+* [Måndag](https://github.com/Lexicon-frontend-2025/lektion-2-jun) - CSS Reset, Variabler, Typografi (google) och units.
 * [Tisdag]- Nestad CSS, klasser, id:n och mer avancerade selektorer ( ex. &, has, is, where ), cascading - betydelse, hover, active, focus-visible mm
 * [Onsdag] - CSS färger och färgsystem, opacity, färger i variabler (relative colors - from...)
 * [Torsdag] - Genomgång av Clean Code i HTML/CSS. Bem, Cube, Tailwind.
