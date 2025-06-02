@@ -20,7 +20,8 @@
 * [Pseudoklasserna :is, :has, :where](https://www.youtube.com/watch?v=3ncFpP8GP4g)
 
 #### Läsning
-* [CSS Units](https://whatunit.com/) [lite om whatunit](https://www.youtube.com/watch?v=Utc_uhvTluk)
+* [CSS Units](https://whatunit.com/)
+* [lite om whatunit](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 ## Övningar
 * [CSS-övning](https://flukeout.github.io/)
