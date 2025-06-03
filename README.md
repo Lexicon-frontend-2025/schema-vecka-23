@@ -40,7 +40,7 @@
 
 ## Lektionsrepon
 * [Måndag](https://github.com/Lexicon-frontend-2025/lektion-2-jun) - CSS Reset, Variabler, Typografi (google) och units.
-* [Tisdag]- Nestad CSS, klasser, id:n och mer avancerade selektorer ( ex. &, has, is, where ), cascading - betydelse, hover, active, focus-visible mm
+* [Tisdag](https://github.com/Lexicon-frontend-2025/lektion-3-juni) - Nestad CSS, klasser, id:n och mer avancerade selektorer ( ex. &, has, is, where ), cascading - betydelse, hover, active, focus-visible mm
 * [Onsdag] - CSS färger och färgsystem, opacity, färger i variabler (relative colors - from...)
 * [Torsdag] - Genomgång av Clean Code i HTML/CSS. Bem, Cube, Tailwind.
 * [Fredag] - Ledigt
